@@ -7,7 +7,7 @@ More info on PPM here - https://www.cs.swarthmore.edu/~soni/cs35/f13/Labs/extras
 3. The image can be thought of as a list of images of size a x c combined into one. (where "b" is a multiple of "c")
 
 Example:
-![Sample input image](/sample/input.ppm)
+![Sample input image](/sample/input.png)
 
 # Output file
 1. Output file is also an image file in .PPM extension.
