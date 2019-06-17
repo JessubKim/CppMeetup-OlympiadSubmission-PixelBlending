@@ -19,7 +19,7 @@ Example:
 3. Calculate the pixel values by doing the followings:
 * Declare a variable "result" which is a 2D array of 3D vector. Initialise it with the size a x c and all zero values. This array will contain the final pixel outputs for the output file.
 * Do a "n" number of loop where "n" is the number of "sub-images" in the input file.
-* Within each loop, update "result" by doing the following calculation:
+* Within each loop, update the "result" by doing the following calculation:
 ```
 result.r = result.r * 0.5 + subimage[index].r * 0.5
 result.g = result.g * 0.5 + subimage[index].g * 0.5
