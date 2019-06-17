@@ -27,6 +27,7 @@ result.b = result.b * 0.5 + subimage[index].b * 0.5
 ```
 * index is the loop iteration number
 * subimage[index] refers to the sub-image within the input file where the pixel starts from x: 0 and y: "c" x "index".
+* r, g and b represent the corresponding color values.
 
 
 
